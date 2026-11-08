@@ -1,0 +1,6 @@
+*.o
+*.elf
+*.lst
+*.debug
+.gdb_history
+.vscode/settings.json
